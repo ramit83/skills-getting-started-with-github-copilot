@@ -40,7 +40,7 @@ activities = {
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
     }
 }
-# Add more activities to the in-memory database
+# Add few more activities to the in-memory database
 activities.update({
     "Basketball Team": {
         "description": "Join the basketball team and compete in local tournaments",
